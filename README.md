@@ -10,8 +10,6 @@ This project involves building an AirBnB clone, which is the first step towards 
 
 ## Objectives
 
-During this project, you will:
-
 - Implement a command-line interpreter to manage AirBnB objects.
 - Establish a parent class named `BaseModel` responsible for initialization, serialization, and deserialization of future instances.
 - Set up a simple flow for serialization/deserialization: Instance <-> Dictionary <-> JSON string <-> file.
@@ -37,19 +35,6 @@ In the context of the AirBnB clone project, the command interpreter serves as a 
 
 - **Destroying Objects**: This involves the removal or deletion of objects from the system.
 
-### Getting Started
-
-To start using the command interpreter, follow these steps:
-
-1. [Step 1 instructions]
-2. [Step 2 instructions]
-3. ...
-
-### Usage
-
-- [Usage example 1]
-- [Usage example 2]
-- ...
 
 ### Contributing
 
