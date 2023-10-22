@@ -1,0 +1,17 @@
+header {
+    background-color: #ffffff;
+    width: 100%;
+    height: 70px;
+    border-bottom: 1px solid #CCCCCC;
+    display: flex;
+    align-items: center;
+}
+
+.hlogo {
+    margin-left: 20px;
+    height: 100%;
+	width: 142px;
+    background-image: url("../images/logo.png");
+	background-repeat: no-repeat;
+	background-position: center;
+}
