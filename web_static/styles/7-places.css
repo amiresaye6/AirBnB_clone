@@ -1,0 +1,20 @@
+section h1, h2{
+    font-size: 30px;
+}
+article {
+    width: 390px;
+
+    margin: 20px;
+    border: #FF5A5F solid 1px;
+    border-radius: 4px;
+}
+.articles {
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+.articles article {
+    display: flex;
+    justify-content: center;
+}
